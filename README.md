@@ -1,4 +1,4 @@
-# analog_pcb_design
+# pcb_design
 
 Hoel BIDAULT
 
@@ -7,4 +7,13 @@ Hoel BIDAULT
 hoel@bsfrance.fr
 
 skype : hoel.bidault
+
+Abdo Babukr 
+
++14087149600
+
+abdo.babukr@gmail.com
+
+skype : abdo.babukr@gmail.com
+
 
